@@ -1,2 +1,2 @@
 # Meal-Finder
-https://pedantic-goodall-8b191b.netlify.app/
+https://mealfinder-app.netlify.app/
