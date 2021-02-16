@@ -1,2 +1,3 @@
 # Meal-Finder
-https://mealfinder-app.netlify.app/
+netlify:
+https://mealfinder-app-bisma.netlify.app/
